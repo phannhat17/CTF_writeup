@@ -4,9 +4,9 @@
 
 
 ## Solution description:
-Out task is to solve the maze problem. We are in 'X' position and have to go to the bottom right of the maze
-I found a Maze Solver writen in python [here](https://gist.github.com/a613/49d65dc30e98c165d567)
-Then write a script to re-config the maze from the server to math the format at maze_solver above.
+Out task is to solve the maze problem. We're in 'X' position and have to go to the bottom right of the maze  
+I found a Maze Solver writen in python [here](https://gist.github.com/a613/49d65dc30e98c165d567)  
+Then write a script to re-config the maze from the server to math the format at maze_solver above.  <br /> 
 Here is my script:
 
 ```python
