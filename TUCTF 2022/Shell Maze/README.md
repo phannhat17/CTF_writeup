@@ -4,8 +4,8 @@
 
 
 ## Solution description:
-Out task is to solve the maze problem. We're in 'X' position and have to go to the bottom right of the maze  
-I found a Maze Solver writen in python [here](https://gist.github.com/a613/49d65dc30e98c165d567)  
+Out task is to solve the maze problem. We're in the top left and have to go to the bottom right of the maze  
+I found a Maze Solver written in python [here](https://gist.github.com/a613/49d65dc30e98c165d567)  
 Then write a script to re-config the maze from the server to math the format at maze_solver above.  <br /> 
 Here is my script:
 
@@ -70,6 +70,9 @@ def create_path(maze):
     c = list(path)
     return(c)
 
+Hỏi có tất cả bao nhiêu cách phân tích 12 thành tổng các số nguyên dương ? chú ý, cách phân tích là một bộ không có thứ tự các số nguyên dương có tổng bằng 12: ví dụ cách phân tích 5 + 2 + 5 và cách 5 + 5 + 2 chỉ được coi là một vì nó đều là phân tích 12 thành tổng của 2, 5, và 5
+
+￼
 
 
 r = remote('chals.tuctf.com', 30204)
