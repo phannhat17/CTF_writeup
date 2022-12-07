@@ -1,9 +1,11 @@
 # Hyper Maze
 
 ## Challenge description:
+`⠱⠁ ⠹⠣ ⠱⠹ ⠱⠁ ⠹⠣ ⠹⠳ ⠱⠁ ⠹⠣ ⠹⠪ ⠱⠁ ⠹⠣ ⠱⠩ ⠹⠣ ⠱⠩ ⠹⠱ ⠻⠁ ⠫⠩ ⠫⠡ ⠻⠻ ⠹⠣ ⠱⠩ ⠹⠱ ⠻⠁ ⠻⠪ ⠻⠁ ⠻⠱ ⠫⠡ ⠻⠻ ⠫⠡ ⠫⠩`
 
 
 ## Solution description:
+Use [cipher identifier](https://www.dcode.fr/cipher-identifier) we know that this is `GS-8 Braille` cipher. Decipher it we have `5a42545a42485a42495a42534253457a6361774253457a797a7561776163` this is `hex code` decode it we have `ZBTZBHZBIZBSBSEzcawBSEzyzuawac`
 
 Source file contains:
 ```python
