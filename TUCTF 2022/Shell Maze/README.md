@@ -70,11 +70,6 @@ def create_path(maze):
     c = list(path)
     return(c)
 
-Hỏi có tất cả bao nhiêu cách phân tích 12 thành tổng các số nguyên dương ? chú ý, cách phân tích là một bộ không có thứ tự các số nguyên dương có tổng bằng 12: ví dụ cách phân tích 5 + 2 + 5 và cách 5 + 5 + 2 chỉ được coi là một vì nó đều là phân tích 12 thành tổng của 2, 5, và 5
-
-￼
-
-
 r = remote('chals.tuctf.com', 30204)
 i = 0
 main_console_3 =[]
