@@ -61,7 +61,7 @@ print(mixed)
 ```
 
 After decode the cipher in the description, we got the output of the above script.  
-The 'mix' function can easily be reverse:
+The `mix` function can easily be reverse:
 ```python
 def re_mix(oneLetter,num):
     if(oneLetter.isupper()):
@@ -77,7 +77,7 @@ def re_mix(oneLetter,num):
                 return chr(i)
 ```
 
-And the 'puzzled' function just change a character to 3 character if the letter is upper or 2 character if the letter is lower. So that we can easily know all the case and add to a dictionary like this:
+And the `puzzled` function just change a character to 3 character if the letter is upper or 2 character if the letter is lower. So that we can easily know all the case and add to a dictionary like this:
 ```python
 def puzzled(puzzle):
     toSolveOne = ""
