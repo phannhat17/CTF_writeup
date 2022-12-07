@@ -1,4 +1,4 @@
-# Hyper Maze
+# Unmix The Flag
 
 ## Challenge description:
 `⠱⠁ ⠹⠣ ⠱⠹ ⠱⠁ ⠹⠣ ⠹⠳ ⠱⠁ ⠹⠣ ⠹⠪ ⠱⠁ ⠹⠣ ⠱⠩ ⠹⠣ ⠱⠩ ⠹⠱ ⠻⠁ ⠫⠩ ⠫⠡ ⠻⠻ ⠹⠣ ⠱⠩ ⠹⠱ ⠻⠁ ⠻⠪ ⠻⠁ ⠻⠱ ⠫⠡ ⠻⠻ ⠫⠡ ⠫⠩`
