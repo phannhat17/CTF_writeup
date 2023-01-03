@@ -1,4 +1,4 @@
-# CTF_Writeup
+# CTF Writeup
 
 This repository contains writeups for some CTFs I've participated
 
