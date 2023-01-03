@@ -8,7 +8,7 @@
 
 
 There are three challenges I solved but the organizer does not public source code so it is difficult for me to present the solution:
-- [Tornado - Web](./Tornado/README.md)  
-- [Vertical Traversal - Web](./Vertical%20Traversal/README.md)  
-- [Swapping Heads - Web](./Swapping%20Heads/README.md) 
+- Tornado - Web
+- Vertical Traversal - Web  
+- Swapping Heads - Web
 
