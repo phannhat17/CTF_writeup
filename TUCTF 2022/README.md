@@ -7,7 +7,8 @@
 4. [Shell Maze - Programming](./Shell%20Maze/README.md)   
 
 
-There are three challenges I solved but the organizer does not public source code so it is difficult for me to present the solution:
+There are three challenges I solved but the organizer does not public source code so it is difficult for me to present the solution.  
+If the source code becomes public in the near future, I will write a writeup for these challenges as soon as possible:
 - Tornado - Web
 - Vertical Traversal - Web  
 - Swapping Heads - Web
